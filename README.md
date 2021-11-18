@@ -30,13 +30,8 @@ Atul Joshi sent the following message at 1:38 PM
 View Atul’s profile Atul Joshi
 Atul Joshi 1:38 PM
 
-    👏
-    👍
-    👎
-    😊
-    😞
-
 Alright, 👍 thankyou
+
 ---
  Nikheel Deshmukh 7:39 PM
 
@@ -288,13 +283,8 @@ Deep Patel sent the following message at 10:51 AM
 View Deep’s profile Deep Patel
 Deep Patel 10:51 AM
 
-    👏
-    👍
-    👎
-    😊
-    😞
-
 things related to PLC or HMI is not taught...  you will learn to design and develop mechatronics system for the industry (Manufacturing Automation as well as Mechatronics System Design techniques)... so expect elements of electronic, mechanical and control  ...  some key software one might use their ...endnote, solidworks , matlab, labview , coppeliasim, MS project..
+
 ---
 
 Oct 28
