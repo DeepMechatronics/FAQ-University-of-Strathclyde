@@ -1,4 +1,4 @@
-## Chat log of people asking me about University of Strathclyde
+## Some of the chat log of people asking me about University of Strathclyde
 
 Pls message me only and only if your query is not answered by below
 
